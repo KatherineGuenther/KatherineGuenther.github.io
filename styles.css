@@ -1,3 +1,21 @@
 body {
-	background: blue;
+	background-color: #6699ff;
+}
+
+.main-image {
+	display: block;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.bottom-link {
+	padding: 1%;
+}
+
+a {
+	color: white;
+}
+
+a:visited {
+	color: gray;
 }
